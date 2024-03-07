@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a Web Developper passioned by Design, minimalism et bright colors
 <!--
 **Halicksse/Halicksse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
