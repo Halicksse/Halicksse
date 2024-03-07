@@ -20,6 +20,11 @@
 🏆 #First place Hackathon WCS November 2023 team TrueQuiLeaks <br>
 🥈 #Finalist Hackathon WCS L'Oréal 2024 team TrueQuiLeaks
 
+![Halicksse's Stats](https://github-readme-stats.vercel.app/api?username=Halicksse&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Halicksse's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Halicksse&theme=vue-dark&hide_border=true)
+![Halicksse's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Halicksse&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=halicksse&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--
 **Halicksse/Halicksse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
