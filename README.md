@@ -4,6 +4,7 @@
 🌱 I’m currently searching an internship
 🥐 Based in France
 
+🤝 https://www.linkedin.com/in/alix-carlhant-427064291/
 🎫 https://portfolio-one-iota-86.vercel.app/
 
 # 💻 Tech Stack:
